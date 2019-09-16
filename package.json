@@ -1,0 +1,9 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Tavi-Kohn/personal-website.git",
+  "author": "Tavi Kohn <tavi.kohn@gmail.com>",
+  "license": "Unlicense",
+  "private": true
+}
